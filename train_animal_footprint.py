@@ -10,8 +10,8 @@ from sklearn.utils.class_weight import compute_class_weight
 # =========================
 # CONFIGURATION
 # =========================
-data_dir = r"C:\Users\HP\Desktop\Animal footprint tracker\train"
-split_dir = r"C:\Users\HP\Desktop\Animal footprint tracker\train_split"
+data_dir = r"C:\Users\HP\Desktop\animalFootprintIOT\train"
+split_dir = r"C:\Users\HP\Desktop\animalFootPrintIOT\train_split"
 img_size = (224, 224)
 batch_size = 32
 epochs_initial = 20
